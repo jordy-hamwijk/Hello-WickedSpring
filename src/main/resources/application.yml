@@ -19,7 +19,7 @@ management:
 server:
   compression:
     enabled: true
-  port: 8081
+  port: 8080
 spring:
   main:
     allow-bean-definition-overriding: true
